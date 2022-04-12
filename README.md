@@ -29,7 +29,7 @@ This application uses the following libraries.
 You can clone the whole project.
 
 ```
-git clone Happy-New-Year-2079-Fireworks-Show
+git clone https://github.com/shreekrishnalamichhane/Happy-New-Year-2079-Fireworks-Show.git
 ```
 
 **OR**
