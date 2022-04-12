@@ -29,20 +29,20 @@ This application uses the following libraries.
 You can clone the whole project.
 
 ```
-git clone ...
+git clone Happy-New-Year-2079-Fireworks-Show
 ```
 
 **OR**
 
 You can `fork` this project.
 
-[![fork this repo](https://img.shields.io/github/forks/shreekrishnalamichhane/...?color=rgb%28224%2C%2093%2C%2068%29&style=for-the-badge)](https://github.com/shreekrishnalamichhane/.../fork)
+[![fork this repo](https://img.shields.io/github/forks/shreekrishnalamichhane/Happy-New-Year-2079-Fireworks-Show?color=rgb%28224%2C%2093%2C%2068%29&style=for-the-badge)](https://github.com/shreekrishnalamichhane/Happy-New-Year-2079-Fireworks-Show/fork)
 
 To run the project, visit included `index.html` in browser.
 
 ## Demo
 
-Self Hosted Demo: [Will be added later](...)
+Self Hosted Demo: [Click here](https://projects.shreekrishnalamichhane.com.np/Happy-New-Year-2079-Fireworks-Show/)
 
 ## Tests
 
@@ -67,10 +67,10 @@ Anyone can contribute on this project. Check the [installation](#installation) s
 
 This project is licensed under **MIT License**.
 
-[![License: MIT](https://img.shields.io/packagist/l/shreekrishnalamichhane/...?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/packagist/l/shreekrishnalamichhane/Happy-New-Year-2079-Fireworks-Show?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ---
 
 Thank you for visiting. Make sure to try it out. If you love this project give it a star.
 
-[![star this repo](https://img.shields.io/github/stars/shreekrishnalamichhane/...?color=rgb%28224%2C%2093%2C%2068%29&style=for-the-badge)](https://github.com/shreekrishnalamichhane/...)
+[![star this repo](https://img.shields.io/github/stars/shreekrishnalamichhane/Happy-New-Year-2079-Fireworks-Show?color=rgb%28224%2C%2093%2C%2068%29&style=for-the-badge)](https://github.com/shreekrishnalamichhane/Happy-New-Year-2079-Fireworks-Show)
